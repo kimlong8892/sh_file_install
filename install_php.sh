@@ -24,6 +24,10 @@ sudo apt-get install php8.1 -y
 sudo apt-cache search php8.1 -y
 sudo apt-get install php8.1 php8.1-cli php8.1-common php8.1-json php8.1-opcache php8.1-mysql php8.1-mbstring php8.1-mcrypt php8.1-zip php8.1-fpm php8.1-xml -y
 
+sudo apt-get install php8.2 -y
+sudo apt-cache search php8.2 -y
+sudo apt-get install php8.2 php8.1-cli php8.2-common php8.2-json php8.2-opcache php8.2-mysql php8.2-mbstring php8.2-mcrypt php8.2-zip php8.2-fpm php8.2-xml -y
+
 
 sudo apt-get install nginx -y
 sudo apt-get update -y
